@@ -25,9 +25,7 @@
 
 | Versão | Data | Download |
 |--------|------|----------|
-| **v2.0.0** ⭐ atual | Mai/2026 | [📦 TechSolutions_ADManager_v2.0.0_Setup.exe](https://github.com/seu-usuario/ad-manager-releases/releases/latest) |
-| v1.1.0 | Mar/2026 | [📦 v1.1.0](https://github.com/seu-usuario/ad-manager-releases/releases/tag/v1.1.0) |
-| v1.0.0 | Mar/2026 | [📦 v1.0.0](https://github.com/seu-usuario/ad-manager-releases/releases/tag/v1.0.0) |
+| **v2.0.0** ⭐ atual | Mai/2026 | [📦 TechSolutions_ADManager_v2.0.0_Setup.exe](https://github.com/Eduardo-Dev-0/ad-manager-releases/releases/latest) |
 
 > Não é necessário instalar Python. O instalador inclui tudo que é necessário.
 
@@ -136,7 +134,7 @@ Senha inicial visível antes de criar. Exportar relatório `.xlsx`. Log com core
 
 ## 🔄 Atualizações
 
-Fique de olho na aba [Releases](https://github.com/seu-usuario/ad-manager-releases/releases) para novas versões.
+Fique de olho na aba [Releases](https://github.com/Eduardo-Dev-0/ad-manager-releases/releases) para novas versões.
 Veja o histórico completo em [CHANGELOG.md](CHANGELOG.md).
 
 ---
@@ -162,6 +160,6 @@ MIT License — veja [LICENSE](LICENSE).
 
 Desenvolvido por **Eduardo Gabriel de Meneses — Tech Solutions**
 
-Feito com ❤️ e Python
+Feito com Dedicação e Python
 
 </div>
