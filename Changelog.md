@@ -6,6 +6,30 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
 ---
+## [2.1.0] — 2026-05-30
+
+### Corrigido
+- CPF com zeros à esquerda sendo cortado ao ler planilha Excel
+- Senha inicial sempre exibida com 11 dígitos completos
+- Ferramenta travando (Não está respondendo) ao redefinir senha em lote
+- Treeview retornando valores numéricos — forçada conversão para string
+
+### Adicionado
+- Ícones de status na coluna: 🟠 Carregado · 🟡 Disponível · ✅ Criado · 🔵 Já existe · ❌ Erro
+- Spinner animado no rodapé durante operações (⠋ Verificando... · ⠙ Criando...)
+- Rodapé com contadores por status: ✅ Criados · 🔵 Já existe · ❌ Erros
+- Scrollbar vertical na tabela de usuários
+- Fonte maior na tabela (Arial 11) com altura de linha aumentada
+- Opções de reset de senha: CPF padrão · Senha padrão com forçar troca · Senha manual
+- Opção nas Configurações para forçar troca de senha no próximo login
+- Validação de 11 dígitos bloqueando criação de usuário com CPF inválido
+- Função formatar_cpf garantindo exibição 000.000.000-00 em toda a interface
+- Log detalhado passo a passo durante criação de usuários
+
+### Alterado
+- Linhas carregadas da planilha agora exibidas em preto (melhor contraste)
+- Amarelo reservado apenas para usuários disponíveis para criar
+- Função criar() completamente reescrita com tratamento de erros por etapa
 
 ## [2.0.0] — 2026-05-04
 
