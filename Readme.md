@@ -26,7 +26,6 @@
 | Versão | Data | Download |
 |--------|------|----------|
 | **v2.1.0** ⭐ atual | Mai/2026 | [📦 TechSolutions_ADManager_v2.1.0_Setup.exe](https://github.com/Eduardo-Dev-0/ad-manager-releases/releases/latest) |
-| v2.0.0 | Mai/2026 | [📦 TechSolutions_ADManager_v2.0.0_Setup.exe](https://github.com/Eduardo-Dev-0/ad-manager-releases/releases/tag/v2.0.0) |
 
 > Não é necessário instalar Python. O instalador inclui tudo que é necessário.
 
